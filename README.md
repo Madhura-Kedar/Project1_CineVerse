@@ -7,3 +7,4 @@ This project focuses on building a visually appealing, interactive, and fully re
 HTML5 – Structure
 CSS3 – Styling & Layout
 JavaScript (Vanilla JS) – Interactivity
+https://madhura-kedar.github.io/Project1_CineVerse/
